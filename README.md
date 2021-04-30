@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yunus.
 - 👀 I’m interested in math, coding, history, economics...
 - 🌱 I’m currently doing a Ph.D. in pure mathematics at University of Wisconsin, Madison.
-- 📫 How to reach me: <last name>@wisc.edu.
+- 📫 How to reach me: last-name@wisc.edu.
 
 <!---
 ynst/ynst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
