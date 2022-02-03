@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yunus.
-- 👀 I’m interested in math, coding, history, economics...
+- 👀 I’m interested in math and reading...
 - 🌱 I’m currently doing a Ph.D. in pure mathematics at University of Wisconsin, Madison.
 - 📫 How to reach me: last-name@wisc.edu.
 
